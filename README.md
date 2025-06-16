@@ -17,7 +17,6 @@
 <!-- About me section with custom SVG -->
 <div align="center">
   <h2>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
     About Me
   </h2>
 </div>
