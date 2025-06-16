@@ -8,10 +8,8 @@
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=tasheew&style=for-the-badge&color=0EA5E9" alt="Profile Views">
     <a href="https://tasheewangchuk.com"><img src="https://img.shields.io/badge/Website-tasheewangchuk.com-0EA5E9?style=for-the-badge" alt="Website"></a>
-    <a href="mailto:tashee.wangchuk@example.com"><img src="https://img.shields.io/badge/Email-Let's_Talk-0EA5E9?style=for-the-badge&logo=gmail" alt="Email"></a>
+    <a href="mailto:tashiwangchuk619@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_Talk-0EA5E9?style=for-the-badge&logo=gmail" alt="Email"></a>
   </p>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tasheew&theme=tokyonight&hide_border=true&background=1A1B27&stroke=0EA5E9&ring=0EA5E9&fire=FF9D00&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=0EA5E9&sideLabels=0EA5E9&dates=A1A1AA" alt="GitHub Streak" />
 </div>
 
 <!-- About me section with custom SVG -->
@@ -46,11 +44,6 @@
         <li>🌐 Building interactive web applications</li>
         <li>🤝 Open to collaboration on innovative projects</li>
       </ul>
-    </td>
-    <td valign="top" width="40%">
-      <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tasheew&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=0EA5E9&icon_color=F8D866&text_color=FFFFFF" alt="tasheew" />
-      </div>
     </td>
   </tr>
 </table>
@@ -208,19 +201,6 @@
 </div>
 
 <!-- GitHub Stats with animated cards -->
-<div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git Stats">
-    GitHub Analytics
-  </h2>
-</div>
-
-<div align="center">
-  <a href="https://github.com/tasheew">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tasheew&show_icons=true&bg_color=1A1B27&text_color=FFFFFF&title_color=0EA5E9&icon_color=FF9D00&hide_border=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=tasheew&bg_color=1A1B27&text_color=FFFFFF&title_color=0EA5E9&hide_border=true&layout=compact" />
-  </a>
-</div>
 
 <!-- Skills measurement -->
 <div align="center">
@@ -253,7 +233,6 @@
 <!-- Trophy Gallery -->
 <div align="center">
   <h2>
-    <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
     GitHub Achievements
   </h2>
 </div>
