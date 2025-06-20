@@ -143,44 +143,6 @@
     </tr>
   </table>
 </div>
-
-<!-- Trophy Gallery -->
-<div align="center">
-  <h2>
-    GitHub Achievements
-  </h2>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tasheew&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=15" alt="Trophy Gallery"/>
-</div>
-
-<!-- Connect with me section with animated social badges -->
-<div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
-    Let's Connect
-  </h2>
-</div>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/tashee-wangchuk/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/tashee_wangchuk" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://t.me/tasheewangchuk" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  <a href="https://codepen.io/tasheew" target="_blank">
-    <img src="https://img.shields.io/badge/CodePen-%23000000.svg?&style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen">
-  </a>
-  <a href="https://dev.to/tasheew" target="_blank">
-    <img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to">
-  </a>
-</div>
-
 <!-- Footer wave animation -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=100&section=footer" width="100%" />
